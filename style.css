@@ -8,8 +8,16 @@ h2{
   padding-top: 135px;
   scroll-padding-bottom: 135px;
 }
-.container {
+.container2 {
     max-width: 98%;
+    margin-top: 2%;
+
+}
+.cantainer3 {
+    max-width: 70%;
+    margin-top: 6%;
+    margin-left: 16%;
+
 }
 .topicon{
   justify-content: center;
@@ -42,6 +50,10 @@ h2{
     margin-bottom: -4.5rem;
     font-weight: 500;
     line-height: 1.2;
+}
+.cardimg{
+  max-width: 100%;
+  height: auto;
 }
 /* Ribbon Test*/
 
